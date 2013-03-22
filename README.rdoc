@@ -1,0 +1,9 @@
+== PyBrickBreaker
+
+Simple Python adaptation of the classic game “Breakout”. Created for the final project in my Intro to Comp Sci I class. It uses Python’s Tkinter graphics library.
+
+Visit http://www.myersmeredith.com/portfolio/pybrickbreaker/ for a video and more information.
+
+== License
+
+Distributed under the Apache License Version 2. See "license.txt" for more information.
